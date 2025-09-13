@@ -20,15 +20,18 @@ A atividade consiste em tratar, limpar e padronizar um banco de dados disponibil
   
 ---
 
-### 📚 Para o código funcionar: 
+### 💻 Para o projeto funcionar: 
 
 Baixe o arquivo .csv disponível no diretório 
 
-* `desafio_limpeza`
+* `desafio_limpeza.csv`
 
-Importe as bibliotecas e execute o comando abaixo
+Execute o comando abaixo
 
 * `!pip install unidecode`
+
+Importe as bibliotecas
+
 * `from unidecode import unidecode`
 * `import re`
 * `from datetime import datetime`
