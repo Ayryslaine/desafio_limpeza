@@ -1,0 +1,521 @@
+id,nome,idade,renda_mensal,estado_civil,uf,data_cadastro,score_credito,categoria_produto,qtd_compras_12m,email
+1618,Carla Gomes,18.0,"R$ 1.371,92",Divorciado,pa,2022-09-15,581.0, A,4,carla.gomes178@universidade.br
+1630,Yasmin Dias,45.0,-2681.639865748432,solteiro  ,ac,2025-04-07,512.0,unknown,5,yasmin.dias43@gmail.com
+1388,Felipe Yamamoto,17.0,,Divorc.  ,rn,2023-09-26,,unknown,2,felipe.yamamoto788@empresa.com.br
+1099,Otávio Zanetti,49.0,2260.2923563383247,Viúvo  , sp ,2026-06-14,456.0, A ,1,otávio.zanetti514@hotmail.com
+1627,Xavier Moraes,42.0,2181.827189935003,Solteiro,mt,2024-10-04,, A,14,xavier.moraes100@gmail.com
+1191,Marina Nascimento,42.0,1780.2636808287389,,ms,2025-02-10,580.0,B,0,
+1562,Nina Cardoso,48.0,2345.641089134547,Divorc.  ,pb,2022-02-08,, C,9,NINA.CARDOSO568UNIVERSIDADE.BR
+1572,Vera Almeida,41.0,3992.6338607011294,,pe,2025-02-21,594.0,a ,6,vera.almeida3@empresa.com.br
+1624,Marina Nascimento,22.0,1055.456959322632,Viúvo  ,sp,2022-03-12,,unknown,8,MARINA.NASCIMENTO371GMAIL.COM
+1115,Paula Itaúna,56.0,2988.6037893613957,,mg,2023-08-09,538.0,—,3,paula.itaúna883@gmail.com
+1306,João Esteves,43.0,2883.585715589896,Single  ,ce,2024-03-23,818.0,C,1,joão.esteves515@gmail.com
+1600,Vera Queiroz,37.0,1892.1295124935077,Solteiro,sc,2024-11-27,514.0,A,5,vera.queiroz176@yahoo.com
+1188,Tiago Gomes,36.0,2885.3829702767184,Divorc.,sp,2022-01-10,691.0, B,5,tiago.gomes220@hotmail.com
+1132,Ulisses Vasconcelos,25.0,904.2320291577794,Single,ac,2022-08-09,723.0, A ,4,ulisses.vasconcelos138@yahoo.com
+1220,Eduarda Yamamoto,17.0,"R$ 3055,00 reais",Casado,ma,2022-08-05,586.0,B,7,eduarda.yamamoto461@empresa.com.br
+1433,Xavier Yamamoto,21.0,1043.2555286978452,Casado,pb,2022-01-07,785.0, A ,3,xavier.yamamoto978@empresa.com.br
+1605,Paula Nascimento,44.0,2744.9198314220284,Single,es,2024-01-26,704.0,A,1,paula.nascimento774@gmail.com
+1307,Otávio Ferraz,24.0,3764.7201747511554,—,ma,2024-09-17,544.0,C,13,otávio.ferraz42@hotmail.com
+1256,Nina Moraes,57.0,4384.497802742801,Solteiro,mg,2023-12-04,765.0,B,5,nina.moraes731@hotmail.com
+1232,Ulisses Pereira,42.0,4349.339691348885,Divorciado  ,rr,2023-04-03,, B,,ulisses.pereira604@hotmail.com
+1109,Karen Zanetti,28.0,"R$ 1543,00 reais",Solteiro, sp ,2024-08-25,,B,dois,karen.zanetti852@hotmail.com
+1229,William Lima,42.0,4745.298844758164,—,ma,2025-02-27,444.0, B,6,
+1401,Paula Ximenes,48.0,"R$ 1.167,09",solteiro,rs,2022-10-21,674.0, UNKNOWN,3,paula.ximenes893@gmail.com
+1138,Paula Ximenes,37.0,1761.5425223102097,,go,2024-11-28,493.0, B,5,paula.ximenes575@yahoo.com
+1441,Ana Pereira,62.0,"R$ 2778,00 reais",Solteiro,ms,2022-07-04,758.0,B,2,ana.pereira668@universidade.br
+1155,Xavier Ramos,62.0,2033.0000066668147,Divorc.,pb,2023-05-22,,a ,5,xavier.ramos355@hotmail.com
+1558,Rafael Ferraz,45.0,5417.3388767944325,solteiro,pa,2023-05-18,658.0,unknown,9,rafael.ferraz723@universidade.br
+1471,Nina Itaúna,50.0,3806.0779210574565,Viuvo,es,2024-02-04,457.0,a,6,nina.itaúna751universidade.br
+1420,Otávio Queiroz,54.0,1112.8813708210737,—,ro,2024-05-12,, C,5,otávio.queiroz984@yahoo.com 
+1439,Gabriela Nascimento,19.0,,  ,se,2023-10-27,567.0,A,0,gabriela.nascimento701@universidade.br
+1450,Karen Nascimento,28.0,,—,ma,2025-03-20,564.0, A,6,karen.nascimento428gmail.com
+1563,Carla Uchoa,52.0,7923.214822009936   reais,Divorciado  ,sc,2025-01-11,,a,7 compras,carla.uchoa801@hotmail.com
+1202,William Yamamoto,32.0,570.0205449908483,,ce,2022-07-14,,A,7,WILLIAM.YAMAMOTO219EMPRESA.COM.BR
+1057,Nina Ximenes,38.0,9984.589736963133,solteiro  ,al,2022-07-07,660.0,B,8,nina.ximenes985@universidade.br 
+1330,Quésia Itaúna,14.0,1864.9170773969206,—,go,2022-04-21,901.0, C,13,quésia.itaúna819@empresa.com.br
+1573,Isabel Dias,35.0,1824.7946544887868,Viuvo,ce,2024-01-11,651.0,c,5,NAN
+1280,Zuleica Gomes,35.0,5037.602659360156,Casado,to,2022-04-06,552.0,B,8,zuleica.gomes858@universidade.br
+1375,Xavier Ferraz,35.0,"R$ -201,00 reais",,rr,2023-12-29,480.0,B,9,xavier.ferraz310@hotmail.com
+1320,Rafael Teixeira,59.0,"R$ 4188,00 reais",,am,2022-11-26,,a ,5,rafael.teixeira988@gmail.com
+1098,Otávio Barbosa,54.0,4067.733547643629,solteiro,ba,2025-08-13,451.0,unknown,4,otávio.barbosa876@gmail.com
+1544,Marina Yamamoto,32.0,1830.4263915838155,,ma,2025-03-22,644.0,A,dez,marina.yamamoto647@universidade.br
+1262,Ana Klein,38.0,"R$ 1346,00 reais",Single  ,mg,2022-02-06,694.0,B,2,ana.klein5@hotmail.com
+1146,Otávio Uchoa,19.0,3510.8237334021587,Divorciado  ,ac,2023-11-22,, UNKNOWN,13,otávio.uchoa303@universidade.br
+1552,William Queiroz,44.0,3552.3994664411075,Casado  ,pa,2024-07-21,495.0,a ,6,william.queiroz34@hotmail.com
+1308,Marina Pereira,33.0,880.6766039044131,Solteiro, sp ,2025-08-21,818.0,premium,12,marina.pereira106@universidade.br
+1110,Eduarda Ramos,38.0,977.9178612912576,—  ,br,2022-08-16,719.0,unknown,1,eduarda.ramos296@hotmail.com 
+1384,Rafael Moraes,15.0,753.2264133512405,,am,2023-01-24,709.0,C,8,RAFAEL.MORAES451EMPRESA.COM.BR
+1060,Rafael Oliveira,36.0,3473.751190919925,Viúvo, sp ,2025-06-29,642.0, UNKNOWN,2,rafael.oliveira511@empresa.com.br
+1070,Carla Oliveira,28.0,2012.5714162695358,—,rn,2025-08-01,661.0,a ,3,carla.oliveira707@yahoo.com
+1259,Carla Pereira,38.0,2808.1229423472264,Single  ,es,2024-02-21,,c,5,carla.pereira306empresa.com.br
+1013,Bruno Klein,25.0,"R$ 2332,00 reais",Viúvo,pi,2024-09-21,745.0,B,7,BRUNO.KLEIN553HOTMAIL.COM
+1496,Marina Itaúna,35.0,1401.7267009152247,Viuvo,ms,2022-02-08,733.0,B,8,marina.itaúna721@universidade.br
+1248,Yasmin Klein,44.0,1724.3786244882217,Divorc.  ,ce,2023-01-20,609.0,a ,6,yasmin.klein217@empresa.com.br
+1389,Paula Pereira,55.0,,Solteiro,ce,2023-05-03,567.0,B,3,paula.pereira603@empresa.com.br
+1179,Tiago Moraes,17.0,1147.7925095601859,CASADO ,xx,2023-11-17,732.0,a ,2,tiago.moraes836@universidade.br
+1228,Zuleica Ximenes,42.0,691.905013957371,Viúvo,sp,2023-12-28,1000.0,unknown,2,zuleica.ximenes866@hotmail.com
+1409,Karen Ramos,36.0,"R$ 4456,00 reais",solteiro  ,ceara,2024-03-31,949.0,c,5,karen.ramos424@hotmail.com
+1598,Karen Silva,47.0,"R$ 2777,00 reais",—  ,se,2024-02-20,676.0, B,,karen.silva972empresa.com.br
+1489,Felipe Pereira,30.0,3878.706006003097,solteiro  ,sp,2024-09-25,766.0,unknown,14,felipe.pereira113@universidade.br
+1597,Vera Lima,52.0,,Divorc.,br,2024-04-06,, UNKNOWN,2,vera.lima798@universidade.br
+1578,Tiago Zanetti,37.0,1466.9531173986468,Solteiro,ceara,2024-02-26,685.0,a ,1,tiago.zanetti815@empresa.com.br
+1467,Carla Gomes,44.0,"R$ 1185,00 reais",Viuvo,to,2024-06-25,479.0,D,8,carla.gomes168@empresa.com.br
+1285,João Nascimento,14.0,1633.6243561670315,Single,df,2022-02-21,755.0,  b ,3,joão.nascimento149@gmail.com
+1423,Bruno Klein,29.0,4162.827456984368,Divorciado,ma,2024-10-12,324.0,unknown,4,bruno.klein423@empresa.com.br
+1589,Xavier Cardoso,42.0,2176.547552303249,,ba,2022-12-09,, C,6,xavier.cardoso398@universidade.br
+1340,Diego Itaúna,50.0,2081.141660146447,Casado,sp,2023-09-26,672.0,B,3,diego.itaúna254@yahoo.com
+1351,Zuleica Werneck,39.0,1203.0028984268074,—,ma,2024-01-31,778.0,unknown,3,zuleica.werneck92@hotmail.com
+1148,Luiz Werneck,33.0,2358.6215202275357,,es,2024-08-11,646.0,C,1,luiz.werneck164@empresa.com.br
+1300,Luiz Gomes,22.0,"R$ 2306,00 reais",,ma,2022-11-26,587.0, B,7,luiz.gomes227@universidade.br
+1603,João Uchoa,46.0,2613.176055930949,Viuvo,rr,2023-09-04,,a ,4,joão.uchoa628@hotmail.com
+1192,Eduarda Gomes,31.0,7545.406463586939,Single  ,ce,2024-04-17,382.0,B,0,eduarda.gomes504@empresa.com.br
+1532,Otávio Esteves,48.0,2120.1193389209106,Solteiro  ,es,2022-12-07,,B,1,otávio.esteves757@empresa.com.br
+1574,Gabriela Klein,35.0,1559.39466873295,—,al,2023-04-08,573.0,B,1,gabriela.klein434@gmail.com
+1358,Otávio Zanetti,40.0,"R$ 1879,00 reais",CASADO   ,to,2024-01-26,712.0,—,5,otávio.zanetti726@gmail.com
+1249,João Werneck,39.0,2513.2098559519022,Divorciado,al,2022-12-22,606.0,B,2,joão.werneck897@hotmail.com
+1490,Quésia Barbosa,33.0,2659.8714682601903,Viuvo  ,sp,2025-06-17,,a,6,QUÉSIA.BARBOSA362YAHOO.COM 
+1441,Ana Pereira,62.0,2778.8435444772263,Solteiro,ms,2022-07-02,758.0,B,2,ana.pereira668@universidade.br
+1053,Tiago Honório,42.0,6573.5584896266355,Divorc.,xx,2024-06-25,400.0,C,13,tiago.honório881@universidade.br
+1159,Ulisses Vasconcelos,24.0,4262.834119843775,Single, sp ,2024-05-02,335.0,unknown,9,ulisses.vasconcelos153@yahoo.com
+1541,Xavier Dias,35.0,8656.634925002203,CASADO ,ro,2022-10-10,640.0,A,—,xavier.dias869@hotmail.com
+1455,William Yamamoto,38.0,2978.2951484548776,CASADO ,pr,2026-10-20,536.0,A,1,william.yamamoto665@empresa.com.br
+1354,Otávio Itaúna,29.0,,—,mt,2022-05-22,402.0, C,7,otávio.itaúna159@empresa.com.br
+1022,Tiago Gomes,38.0,,Viúvo,pe,2024-11-01,571.0,a ,5,tiago.gomes258@gmail.com
+1629,Nina Oliveira,58.0,,—  ,df,2025-07-27,579.0,B,2,nina.oliveira82@yahoo.com
+1168,Nina Zanetti,38.0,4625.261667205518,Divorciado,df,2022-07-17,522.0,c,11,nina.zanetti153@hotmail.com
+1487,Tiago Dias,35.0,2868.126880726036,,ce,2024-08-12,636.0,—,10,tiago.dias301@empresa.com.br
+1186,Paula Lima,40.0,2509.558019805541,Viuvo,xx,2023-10-16,396.0,A,7,paula.lima308@gmail.com
+1284,Felipe Queiroz,27.0,613.0103416037887,,rs,2026-04-26,533.0,unknown,2,felipe.queiroz361@universidade.br
+1513,Hugo Lima,47.0,2076.0348366852395,,ceara,2022-06-25,766.0,A,7,hugo.lima481@hotmail.com
+1153,Carla Pereira,33.0,2749.391841718735,Divorc.  , sp ,2022-10-05,384.0,unknown,6,carla.pereira657@empresa.com.br
+1587,Quésia Zanetti,14.0,4098.0850997177995,Divorc.  ,ba,2022-09-01,466.0,B,6,quésia.zanetti904@hotmail.com
+1294,Ulisses Gomes,49.0,5845.171495648759,Casado,df,2022-12-09,869.0,unknown,7,ulisses.gomes551universidade.br
+1291,Felipe Queiroz,32.0,4971.229599403418,Single,mt,2024-05-01,, C,8,felipe.queiroz550@empresa.com.br
+1426,Isabel Klein,47.0,1450.5845187632117,Casado  ,pe,2025-04-11,501.0, A ,3,isabel.klein473@hotmail.com
+1352,Bruno Lima,40.0,1917.4662907394684,,df,2022-09-15,678.0,a ,3,bruno.lima239@yahoo.com
+1379,Nina Nascimento,42.0,"R$ 671.,00 reais",,pi,2026-02-05,492.0,unknown,4,nina.nascimento193@gmail.com 
+1074,Isabel Ferraz,41.0,1485.729882519342,Viuvo,rj,2023-11-25,677.0,unknown,11,isabel.ferraz118@empresa.com.br
+1222,Felipe Almeida,43.0,"R$ 694,30",Viuvo,pr,2022-07-13,,a ,3,felipe.almeida105@hotmail.com
+1217,Nina Almeida,22.0,,CASADO ,ac,2023-11-18,659.0,premium,6,nina.almeida778@empresa.com.br
+1635,William Queiroz,39.0,4495.779508149527,Viuvo  ,ce,2026-07-21,602.0,unknown,1,william.queiroz690@universidade.br
+1381,Paula Esteves,51.0,2300.4202914344496,Viúvo  ,ap,2026-06-05,602.0,unknown,7,paula.esteves993@gmail.com
+1141,João Werneck,33.0,"R$ 2340,00 reais",Viuvo  ,pe,2024-09-08,672.0,B,2,joão.werneck207@universidade.br
+1399,Felipe Silva,27.0,744.2820881958976,Divorciado,es,2023-09-24,712.0,B,2,felipe.silva879@yahoo.com
+1134,Luiz Yamamoto,35.0,2072.199449486462,—,se,2024-10-21,195.0,A,4,luiz.yamamoto47@gmail.com
+1278,Bruno Honório,,"R$ 2463,00 reais",CASADO , sp ,2024-01-15,490.0,B,1,bruno.honório464@gmail.com
+1633,Paula Queiroz,51.0,5281.462999923059,Viúvo,ac,2025-07-30,575.0, UNKNOWN,2,paula.queiroz330@gmail.com
+1272,Felipe Dias,37.0,2132.205317870387,—,sp,2025-03-11,629.0, B,18,FELIPE.DIAS449HOTMAIL.COM
+1046,Isabel Klein,65.0,796.0331927780936,Casado  ,pi,2024-07-12,702.0,B,1,isabel.klein769@empresa.com.br
+1382,Felipe Oliveira,40.0,"R$ 3068,00 reais",Viuvo,rs,2024-07-26,695.0,B,4,felipe.oliveira438@empresa.com.br
+1407,Yasmin Oliveira,52.0,1993.9269294703493,Viúvo  ,ma,2025-06-17,,C,11,YASMIN.OLIVEIRA935YAHOO.COM
+1289,Felipe Vasconcelos,39.0,1960.210352583817,Divorciado,es,2024-02-12,627.0,A,1,FELIPE.VASCONCELOS439YAHOO.COM
+1390,Ulisses Ramos,47.0,2514.293459101948,Viúvo,am,2023-01-14,, B,1,ulisses.ramos57yahoo.com
+1142,Bruno Vasconcelos,46.0,,Viúvo,pb,2022-04-18,521.0,A,6,bruno.vasconcelos424@yahoo.com
+1549,Sofia Silva,51.0,3491.4404547869826,,pb,2023-12-19,738.0,C,2,sofia.silva292@universidade.br
+1479,Isabel Silva,49.0,"R$ 3952,00 reais",Divorciado,pr,2024-10-31,604.0, C,2,isabel.silva70@gmail.com
+1632,Karen Zanetti,21.0,1594.5317501489674,Viuvo  ,se,2026-07-16,556.0,A,2,karen.zanetti617@gmail.com
+1628,Felipe Werneck,14.0,1644.2686137030325,Viuvo  , sp ,2024-10-26,668.0,A,2,felipe.werneck462@universidade.br
+1235,Felipe Nascimento,34.0,6426.766164696642,Divorc.,rr,2025-01-23,668.0,a ,3,FELIPE.NASCIMENTO104EMPRESA.COM.BR
+1327,João Cardoso,66.0,926.0432228092584,  ,ro,2022-06-05,774.0,c,2,joão.cardoso954@hotmail.com
+1395,Xavier Gomes,33.0,3707.720857512352,Divorc.,to,2022-04-04,549.0,C,9,xavier.gomes359@universidade.br
+1271,Karen Ferraz,35.0,3367.432643459522,Divorc.,ceara,2023-07-11,465.0,unknown,4,karen.ferraz395@empresa.com.br
+1510,Rafael Uchoa,43.0,3239.5877484285006,Viúvo,ce,2024-08-05,611.0,B,7,rafael.uchoa269hotmail.com
+1193,Bruno Itaúna,45.0,"R$ 4413,00 reais",solteiro,mt,2026-12-12,,c,10,bruno.itaúna761@empresa.com.br
+1140,Paula Klein,33.0,1953.0264624032536,Single,pi,2023-08-13,388.0, A,2,paula.klein588@universidade.br
+1054,Gabriela Uchoa,53.0,1596.2275142347398,,ce,2022-11-18,,B,7,gabriela.uchoa178universidade.br 
+1403,João Uchoa,59.0,2936.079079195162,CASADO ,mg,2023-01-30,541.0, C,5,
+1335,Diego Oliveira,37.0,4145.8614151872225,solteiro  ,sc,2024-01-08,588.0,c,4,diego.oliveira571@yahoo.com
+1055,William Jesus,37.0,1394.7144891933417,Viuvo,ba,2023-04-24,,C,4,william.jesus807@universidade.br
+1273,Eduarda Pereira,34.0,2455.809133578286,Casado,to,2024-06-21,403.0,A,2,eduarda.pereira65@yahoo.com 
+1336,Ulisses Uchoa,76.0,4550.685925503178,solteiro,rr,2023-10-28,675.0,B,10,ulisses.uchoa523@empresa.com.br
+1468,Quésia Klein,35.0,4242.848196459455,—  ,sp,2022-07-01,580.0,A,11,quésia.klein420@yahoo.com
+1500,Bruno Ximenes,22.0,4015.1880041533223,Solteiro  , sp ,2022-06-21,721.0, C,1,bruno.ximenes617@yahoo.com
+1520,Sofia Gomes,,5150.287145143879,Solteiro,ms,2024-05-02,397.0,premium,1,sofia.gomes253@empresa.com.br
+1261,Felipe Pereira,61.0,,Casado,go,2025-06-12,,a ,6,felipe.pereira649@empresa.com.br
+1108,Otávio Lima,26.0,"R$ 8316,00 reais",Divorc.,am,2024-03-22,842.0, C,8,otávio.lima383@hotmail.com
+1370,João Ferraz,58.0,"R$ 2.290,85",—,xx,2025-06-30,572.0, B,3,joão.ferraz452@gmail.com
+1323,Isabel Yamamoto,26.0,"R$ 5976,00 reais",,se,2024-04-10,559.0, C,4,isabel.yamamoto206universidade.br
+1003,Ulisses Teixeira,32.0,1563.3025749842395,CASADO ,mg,2022-05-23,494.0,A,0,ulisses.teixeira678@hotmail.com
+1360,Sofia Lima,47.0,"R$ 2992,00 reais",,br,2022-08-02,503.0,B,2,sofia.lima812@hotmail.com
+1101,Zuleica Uchoa,130.0,6716.248247062382,Casado,ro,2022-07-13,732.0,c,4,zuleica.uchoa695@empresa.com.br
+1644,João Werneck,22.0,"R$ 3440,00 reais",,se,2022-07-19,667.0,a,1,joão.werneck332@universidade.br
+1209,Marina Cardoso,31.0,4691.023130169652,Single,ma,2023-07-23,,A,8,marina.cardoso318@gmail.com
+1397,Paula Zanetti,14.0,6901.603119031728,Divorciado  ,sp,2022-11-15,934.0,B,7,paula.zanetti472@universidade.br
+1052,Diego Cardoso,59.0,3111.900857237328,Casado  ,am,2022-11-07,410.0,B,8,diego.cardoso831@universidade.br
+1017,William Ximenes,44.0,4889.825964526605,Single,ce,2027-01-01,,a,5,william.ximenes304@hotmail.com
+1377,Hugo Silva,15.0,2864.8635188282215,solteiro,ro,2024-07-08,676.0, C,1,hugo.silva135@hotmail.com
+1050,Isabel Ximenes,,4070.251218088066,Single,rj,2022-07-25,481.0, UNKNOWN,4,isabel.ximenes199@yahoo.com
+1599,João Cardoso,38.0,"R$ 1794,00 reais",,ms,2022-03-07,779.0,a,7 compras,joão.cardoso706@universidade.br
+1649,Isabel Werneck,29.0,4459.338633100971,—,ms,2024-02-26,614.0,  b ,3,isabel.werneck661@empresa.com.br
+1452,Ana Pereira,18.0,2726.6917695900825,Divorciado,ceara,2025-03-14,903.0, B,4,ana.pereira598@gmail.com
+1297,Tiago Cardoso,34.0,2934.94507616619,—, sp ,2022-05-29,722.0, C,8,tiago.cardoso951@universidade.br
+1357,Paula Queiroz,51.0,"R$ 1770,00 reais",—,pe,2022-04-11,586.0,C,5,paula.queiroz227@universidade.br 
+1611,Xavier Ferraz,47.0,3982.257343633797,Single,df,2023-11-01,,a,5,xavier.ferraz576@hotmail.com
+1560,Eduarda Jesus,56.0,1083.1069384250154,,mt,2022-05-01,517.0, C,7,eduarda.jesus985@yahoo.com
+1030,Karen Moraes,41.0,3901.411630112399,Single,go,2023-01-28,414.0,a ,1,
+1498,Carla Uchoa,26.0,1336.2541616393091,Divorc.  , sp ,2023-08-11,,B,4,carla.uchoa165@yahoo.com
+1117,Karen Dias,34.0,5327.4685461311965,,rj,2023-09-20,,a ,0,karen.dias618@empresa.com.br
+1607,Xavier Oliveira,49.0,4550.655615388825,Casado,ce,2025-01-28,,B,1,xavier.oliveira249@empresa.com.br
+1116,Marina Klein,32.0,3381.5514491133936,Viuvo  ,ce,2026-03-12,755.0, UNKNOWN,5,MARINA.KLEIN532YAHOO.COM
+1620,Marina Ferraz,38.0,2148.821041776496,Divorc.  ,br,2022-11-16,457.0,unknown,4,marina.ferraz977empresa.com.br
+1533,Marina Barbosa,37.0,1542.2610466466647,Casado  ,br,2024-05-01,904.0,unknown,8,marina.barbosa508@universidade.br
+1505,Otávio Moraes,27.0,-2242.716764920629,Divorc.,pe,2023-09-09,647.0, A,5,OTÁVIO.MORAES959HOTMAIL.COM
+1437,Vera Ramos,40.0,"R$ 2232,00 reais",—  ,pb,2022-05-28,468.0,A,1,vera.ramos754@hotmail.com 
+1051,Rafael Jesus,28.0,6612.9229635632055,Divorciado,ce,2022-07-30,,unknown,3,rafael.jesus13@universidade.br
+1576,Tiago Oliveira,32.0,1976.034246357268,,xx,2025-03-31,,A,1,tiago.oliveira88@gmail.com
+1578,Tiago Zanetti,37.0,1466.9531173986468,Solteiro,ceara,2024-02-26,685.0,a ,1,tiago.zanetti815@empresa.com.br
+1333,Diego Ximenes,31.0,2627.0115585925105,Viúvo  ,br,2024-02-20,, B,5,diego.ximenes150@hotmail.com 
+1304,Diego Ferraz,23.0,4012.110573588689,Casado,pi,2022-10-14,460.0,c,10,diego.ferraz202@yahoo.com
+1454,Zuleica Vasconcelos,20.0,,CASADO ,am,2024-11-20,535.0,B,6,zuleica.vasconcelos373@gmail.com
+1526,Paula Queiroz,29.0,1146.990751163136,Single,ce,2026-06-19,567.0,—,3,paula.queiroz448@gmail.com
+1318,Isabel Itaúna,36.0,4535.898044948084,Divorc.,sc,2025-06-07,570.0,C,3,isabel.itaúna697@empresa.com.br
+1058,Felipe Pereira,40.0,1702.5286629882762,Viuvo,pi,2023-01-07,610.0,—,3,felipe.pereira447@empresa.com.br
+1383,Sofia Teixeira,29.0,"R$ 2392,00 reais",,ap,2024-12-02,568.0,A,4,sofia.teixeira463@empresa.com.br 
+1485,William Yamamoto,37.0,3206.31346150577,solteiro,se,2026-03-12,716.0,D,2,william.yamamoto683@universidade.br
+1518,Eduarda Barbosa,34.0,,Solteiro  ,sp,2023-06-17,718.0,B,5,eduarda.barbosa723@empresa.com.br
+1097,Yasmin Silva,44.0,2069.306863654406,—,rs,2025-07-08,254.0,unknown,1,yasmin.silva155empresa.com.br
+1527,Quésia Nascimento,20.0,,Solteiro  ,ba,2022-04-03,,c,3,quésia.nascimento111@universidade.br
+1602,Gabriela Almeida,31.0,3026.2277954971496,Viuvo  ,ba,2024-03-28,, C,7,gabriela.almeida827@hotmail.com
+1459,Ana Zanetti,45.0,2154.9299288399184,Single  , sp ,2024-04-23,694.0,c,1,ana.zanetti352@yahoo.com
+1610,Hugo Gomes,39.0,405.5801119656668,Divorc.,al,2022-01-30,571.0,C,1,hugo.gomes841@hotmail.com
+1023,Isabel Ferraz,42.0,,Single,br,2025-02-22,,A,1,isabel.ferraz115@gmail.com
+1270,Diego Dias,34.0,"R$ 3432,00 reais",Solteiro,ac,2022-10-11,689.0,B,3,diego.dias663@hotmail.com
+1404,Tiago Ramos,33.0,2264.771890582589,Viúvo  ,rr,2025-01-30,424.0,C,4,tiago.ramos278@hotmail.com
+1200,Paula Zanetti,37.0,"R$ 1034,00 reais",,am,2022-04-05,619.0,A,2,paula.zanetti642empresa.com.br
+1154,Vera Ramos,26.0,1084.6246231108244,CASADO ,es,2023-01-01,453.0,c,9,vera.ramos403@universidade.br
+1567,Ana Teixeira,43.0,2505.1622983635316,Solteiro,ms,2024-04-26,683.0, C,0,ana.teixeira917@empresa.com.br
+1204,Ulisses Vasconcelos,37.0,1218.019169296267,Single  ,ac,2026-10-18,825.0, B,8,ulisses.vasconcelos169@empresa.com.br
+1319,Isabel Jesus,42.0,1209.6059187669775,,se,2022-10-10,169.0,unknown,4,isabel.jesus885@gmail.com
+1236,Bruno Jesus,49.0,4574.039803154481,solteiro,df,2022-06-01,,C,7,bruno.jesus175@empresa.com.br
+1066,Otávio Almeida,46.0,"R$ 2026,00 reais",Divorc.,ma,2022-06-03,,a ,4,otávio.almeida801@yahoo.com
+1242,Hugo Pereira,67.0,3670.1354411386383,Divorc.,ap,2024-10-25,686.0,c,3,hugo.pereira923@universidade.br
+1376,Ana Ramos,38.0,"R$ 1920,00 reais",Viúvo,ma,2023-12-01,, A ,1,ana.ramos673@hotmail.com
+1002,Yasmin Klein,40.0,774.356106116968,Divorc.,df,2024-01-06,341.0,unknown,3,yasmin.klein353@universidade.br 
+1631,Paula Pereira,14.0,4847.9055042047,—  ,br,2023-11-21,660.0,C,6,paula.pereira699@yahoo.com
+1642,Paula Jesus,36.0,3456.1632696273255,Divorc.  ,am,2023-11-14,493.0,a,8,paula.jesus848@hotmail.com
+1082,Quésia Dias,52.0,1841.7925875985602,Viuvo, sp ,2024-01-12,343.0,—,10,quésia.dias608@gmail.com
+1392,Yasmin Jesus,57.0,7591.866149971748,Divorc.,ba,2024-05-25,530.0,unknown,4,yasmin.jesus564@gmail.com
+1613,Nina Jesus,34.0,"R$ 3.485,46",Viuvo,df,2025-01-03,434.0, UNKNOWN,8,nina.jesus945@universidade.br
+1055,William Jesus,37.0,1394.7144891933417,Viuvo,ba,2023-04-25,405.0,C,4,william.jesus807@universidade.br
+1601,Carla Moraes,28.0,1758.549458877898,Viúvo, sp ,2023-02-26,,C,3,carla.moraes443@empresa.com.br
+1344,Nina Ramos,49.0,2488.9959990771717,Viúvo,mt,2025-08-15,559.0,a ,13,nina.ramos849@empresa.com.br
+1038,Paula Almeida,35.0,"R$ 3745,00 reais",solteiro,sp,2024-05-08,,c,4,paula.almeida766@universidade.br
+1514,Tiago Itaúna,21.0,3698.753588175937,Single,am,2022-04-17,509.0, C,13,tiago.itaúna954@hotmail.com
+1508,João Klein,28.0,1612.716605450651,Casado,mt,2023-05-27,462.0,c,2,joão.klein731@hotmail.com
+1449,Sofia Ramos,41.0,"R$ 1955,00 reais",Casado,to,2024-12-04,405.0,a ,12,SOFIA.RAMOS883HOTMAIL.COM
+1010,Ana Dias,29.0,3522.7801539154684,solteiro,pr,2022-04-29,754.0,B,8,ana.dias900@universidade.br
+1063,Carla Itaúna,44.0,1593.8746621619778,Divorc.  ,ro,2024-11-05,331.0, C,1,carla.itaúna841@gmail.com
+1032,Vera Uchoa,41.0,"R$ 1589,00 reais",Casado,pr,2023-09-28,879.0,B,6,vera.uchoa826@hotmail.com 
+1346,Gabriela Klein,,-7220.833693824505,Solteiro,al,2023-01-16,,A,3,gabriela.klein289@yahoo.com
+1528,Quésia Almeida,50.0,8544.692968048143,,ceara,2023-01-03,362.0,unknown,1,quésia.almeida187empresa.com.br
+1396,João Queiroz,42.0,968.9374787894029,Solteiro,es,2023-11-14,377.0,C,6,joão.queiroz406@universidade.br 
+1371,Xavier Barbosa,14.0,1886.387050863976,—,ma,2023-08-13,496.0, A,1,xavier.barbosa352@gmail.com
+1025,Hugo Ferraz,27.0,2555.8419256260895,Divorciado,to,2022-02-20,525.0, B,8,hugo.ferraz755@yahoo.com
+1305,Sofia Moraes,32.0,"R$ 6647,00 reais",Viúvo,ap,2025-02-03,659.0,C,1,sofia.moraes557@universidade.br
+1120,Eduarda Queiroz,20.0,4847.665005926915,CASADO ,pi,2023-05-27,,A,3,eduarda.queiroz27@hotmail.com
+1590,Paula Pereira,52.0,1793.783187882123,Divorc., sp ,2023-03-01,492.0, B,3,paula.pereira917@hotmail.com
+1321,Luiz Cardoso,24.0,,,sp,2024-03-31,784.0,c,4,luiz.cardoso672@universidade.br
+1367,Eduarda Barbosa,40.0,6421.242763330521,Divorc.,xx,2025-05-03,797.0, C,12,eduarda.barbosa517@gmail.com
+1546,Ulisses Moraes,25.0,3098.7566518417884,solteiro  ,ce,2022-03-17,871.0,c,4,ulisses.moraes343@empresa.com.br
+1221,Carla Ferraz,23.0,1843.4226880677136,solteiro  ,ap,2023-03-17,651.0,unknown,4,carla.ferraz878@yahoo.com
+1281,Ana Queiroz,47.0,1726.9182827410473,Single,br,2025-04-13,211.0,a ,3,ana.queiroz947@universidade.br
+1089,Felipe Itaúna,17.0,5805.745299876601,solteiro  ,ro,2023-12-20,732.0,A,4,FELIPE.ITAÚNA186HOTMAIL.COM
+1213,Sofia Ferraz,31.0,2770.9818149988,solteiro  ,df,2025-03-21,763.0,B,4,sofia.ferraz741@gmail.com
+1065,Paula Werneck,33.0,2855.4188920409547,Divorc.  ,sp,2025-08-28,601.0,—,8,paula.werneck508@gmail.com
+1430,Isabel Yamamoto,49.0,5123.937334207046,Divorc.,ro,2022-05-04,613.0,C,5,isabel.yamamoto979@yahoo.com
+1387,Marina Ximenes,43.0,"R$ 2251,00 reais",Single, sp ,2024-02-15,721.0,c,7,MARINA.XIMENES390GMAIL.COM
+1252,Ulisses Nascimento,52.0,2817.7288779471946,,ac,2024-08-28,482.0,B,16,ulisses.nascimento663@hotmail.com 
+1329,Vera Pereira,39.0,1485.4096438059803,Single,ap,2024-09-14,612.0,C,2,vera.pereira636@yahoo.com
+1492,João Dias,31.0,876.191982863135,Solteiro,rs,2022-03-18,,a ,10,joão.dias674@empresa.com.br
+1239,Tiago Pereira,56.0,1663.4066069575986,Solteiro,pa,2022-12-16,401.0,B,12,tiago.pereira299@gmail.com
+1511,Sofia Dias,55.0,-3673.1456597129377,Single,br,2024-07-18,623.0,unknown,12,sofia.dias690@empresa.com.br
+1187,Xavier Honório,55.0,2774.3680060003353,Single,mt,2023-11-09,639.0,c,3,xavier.honório437@empresa.com.br
+1418,Bruno Silva,28.0,1388.6094633627802,CASADO ,es,2025-04-03,,a ,4,bruno.silva985@gmail.com
+1431,Diego Esteves,40.0,2057.3832320516035,Divorc.,pa,2025-06-11,534.0,B,5,diego.esteves109@empresa.com.br
+1040,Otávio Ferraz,40.0,1155.8100657778864,Divorc.,rs,2023-03-10,625.0, A ,6,OTÁVIO.FERRAZ335YAHOO.COM
+1048,Paula Oliveira,29.0,"R$ 2779,00 reais",Casado  ,rj,2023-03-30,606.0,a ,2,paula.oliveira709@hotmail.com
+1277,Marina Nascimento,37.0,2668.309685490216,Single,ac,2022-07-06,,unknown,2,marina.nascimento619@universidade.br
+1499,João Oliveira,—,2728.2497185849465,Divorc.,br,2025-08-17,,A,,joão.oliveira207@hotmail.com 
+1172,Marina Cardoso,49.0,2146.527487825871,—,pr,2025-03-06,,unknown,7,marina.cardoso870@empresa.com.br
+1316,Quésia Nascimento,26.0,-5009.968081971428  ,Viuvo  , sp ,2023-12-19,309.0,—,dez,quésia.nascimento824@universidade.br
+1244,Zuleica Cardoso,,4370.096801252173,Single  ,se,2025-02-04,507.0, C,1,zuleica.cardoso878@yahoo.com
+1580,Xavier Teixeira,36.0,840.7145625456269,Viúvo  ,go,2022-04-01,587.0, A,2,xavier.teixeira131@yahoo.com
+1240,Ulisses Ramos,50.0,633.0456669143,CASADO ,sp,2024-01-27,497.0,B,4,ulisses.ramos457@gmail.com
+1447,Eduarda Gomes,44.0,"R$ 2517,00 reais",Viuvo,ms,2024-03-04,569.0, C,2,eduarda.gomes140@empresa.com.br
+1647,Hugo Barbosa,33.0,1800.1713857256887,Divorc.  ,ce,2023-09-12,510.0,  b ,4,hugo.barbosa611@hotmail.com
+1283,William Ximenes,62.0,2400.944009507612,,rs,2025-02-07,460.0,unknown,3,WILLIAM.XIMENES223HOTMAIL.COM
+1245,Diego Nascimento,42.0,1347.7921902570956,—,df,2022-08-05,,c,2,diego.nascimento799@gmail.com
+1056,Eduarda Cardoso,57.0,1034.750044074948,solteiro,rj,2024-06-18,533.0,A,5,eduarda.cardoso480@yahoo.com
+1493,Marina Silva,44.0,2225.88403018175,—,df,2024-09-27,808.0,A,9,marina.silva708@hotmail.com
+1071,Luiz Silva,32.0,"R$ 2758,00 reais",,rj,2022-02-14,683.0,unknown,8,luiz.silva675@empresa.com.br
+1581,Eduarda Esteves,23.0,,—  ,ro,2023-08-20,681.0,C,12,eduarda.esteves994@gmail.com
+1145,João Silva,17.0,"R$ 7036,00 reais",CASADO ,rj,2024-07-19,413.0,premium,2,joão.silva557@universidade.br
+1090,Nina Oliveira,56.0,2551.551458527511,CASADO , sp ,2026-05-10,844.0, UNKNOWN,1,nina.oliveira965@universidade.br
+1166,Bruno Cardoso,35.0,1874.620213401719,,am,2022-01-14,817.0,a ,5,BRUNO.CARDOSO141HOTMAIL.COM
+1639,Sofia Lima,46.0,"R$ 2147,00 reais",CASADO   ,sp,2025-03-27,,B,3,sofia.lima2yahoo.com
+1324,Sofia Lima,29.0,2594.0783600541345,solteiro,pb,2025-05-26,430.0,—,1,sofia.lima466@empresa.com.br
+1170,Ana Werneck,32.0,2060.964249777927,Viuvo,br,2025-08-13,,unknown,2,ana.werneck340@universidade.br
+1385,Eduarda Oliveira,53.0,1656.1710391021725,Viuvo,ce,2024-10-22,866.0,A,1,eduarda.oliveira185@universidade.br
+1619,Gabriela Honório,25.0,"R$ 2302,00 reais",—,pr,2023-09-13,622.0, C,2,gabriela.honório591@empresa.com.br
+1243,Felipe Gomes,42.0,1552.4991195345888,Divorciado,ap,2024-05-17,557.0,A,1,felipe.gomes700@empresa.com.br
+1087,Luiz Vasconcelos,40.0,4875.349688613642,Divorc.  ,am,2023-08-13,753.0,c,5,luiz.vasconcelos320@yahoo.com
+1214,Marina Esteves,32.0,6275.397182256559,Solteiro  ,to,2023-04-05,416.0,C,1,marina.esteves255@empresa.com.br
+1173,Carla Queiroz,52.0,6455.3539463382185,CASADO ,am,2022-07-20,, A ,4,carla.queiroz238@gmail.com
+1504,Tiago Barbosa,44.0,2351.2100506860256,,am,2023-05-06,768.0, C,3,tiago.barbosa566@empresa.com.br
+1118,Nina Itaúna,38.0,6673.250739092668,Solteiro,ba,2025-07-29,649.0,a,3,nina.itaúna373@universidade.br
+1119,Bruno Esteves,48.0,2584.7194925485346,,sc,2024-01-12,467.0,—,5,bruno.esteves973universidade.br
+1622,Ana Queiroz,33.0,"R$ 7575,00 reais",CASADO ,ce,2024-04-08,683.0,a ,1,ana.queiroz963@empresa.com.br
+1339,Xavier Werneck,35.0,3264.4275280883135,Viúvo  , sp ,2024-03-24,473.0,unknown,2,xavier.werneck98@gmail.com
+1565,João Barbosa,42.0,8040.420541965182,Single  , sp ,2023-09-08,,A,3,JOÃO.BARBOSA405GMAIL.COM
+1458,Eduarda Pereira,26.0,3240.373133215813,Viúvo,al,2023-08-24,, A ,5,EDUARDA.PEREIRA993UNIVERSIDADE.BR
+1463,Karen Esteves,40.0,-2671.093619645079,  ,ro,2025-08-18,615.0, B,6,karen.esteves303@empresa.com.br
+1162,Ana Gomes,37.0,900.9262852517702,  ,es,2024-09-07,,B,5,ana.gomes713@universidade.br
+1114,Felipe Zanetti,35.0,2702.243331768349,,ceara,2022-03-17,613.0,C,6,felipe.zanetti207@gmail.com
+1158,Vera Queiroz,30.0,7240.670812863904,solteiro  ,pi,2022-05-05,706.0,c,3,vera.queiroz972@universidade.br
+1150,Yasmin Honório,40.0,1356.9249241467812,—,ce,2024-12-12,661.0,premium,1,yasmin.honório541yahoo.com
+1517,João Itaúna,41.0,1947.536601017456,solteiro, sp ,2024-06-11,,B,2,joão.itaúna324@empresa.com.br
+1445,Otávio Barbosa,14.0,1391.6241824303843,Solteiro,ms,2022-11-20,,unknown,4,OTÁVIO.BARBOSA30EMPRESA.COM.BR
+1031,João Gomes,45.0,"R$ 5065,00 reais",—,rs,2024-08-10,633.0,a ,8,joão.gomes453@hotmail.com
+1595,Quésia Yamamoto,30.0,1572.2520048402248,Divorc.,pb,2023-04-10,589.0, B,8,QUÉSIA.YAMAMOTO768HOTMAIL.COM
+1020,Otávio Teixeira,33.0,"R$ 1508,00 reais",Casado,ba,2025-01-06,575.0,B,6,otávio.teixeira519@yahoo.com
+1113,Xavier Vasconcelos,47.0,"R$ 553.,00 reais",—,ro,2026-10-16,, A,6,xavier.vasconcelos361@universidade.br
+1422,Isabel Almeida,43.0,3305.298597810836,—,ms,2025-04-26,759.0, B,21,isabel.almeida155@empresa.com.br
+1000,Ulisses Dias,43.0,2246.3038684153353,solteiro  ,pr,2023-04-03,,B,11,ulisses.dias755@gmail.com
+1411,Otávio Klein,33.0,1558.9271704613593,Viuvo,ms,2023-09-23,771.0,a ,3,otávio.klein72@universidade.br
+1343,Eduarda Lima,38.0,-1290.2146554827511   reais,Single,ac,2024-10-04,, UNKNOWN,—,eduarda.lima489yahoo.com
+1258,Hugo Lima,25.0,1716.5325097272287,solteiro  ,to,2023-11-10,570.0,C,2,hugo.lima267@universidade.br
+1636,Hugo Gomes,40.0,3698.3189334254134,,ce,2022-08-05,409.0, A ,12,hugo.gomes733@gmail.com
+1556,Tiago Nascimento,47.0,3524.4556451311646,Divorc.  ,ro,2025-01-12,447.0,A,3,TIAGO.NASCIMENTO982EMPRESA.COM.BR
+1575,Nina Zanetti,17.0,1848.8342571691219,,ro,2026-02-17,508.0,B,9,nina.zanetti111@empresa.com.br
+1386,Sofia Werneck,49.0,2080.8635360530443,Viuvo,ce,2023-05-28,815.0, C,6,sofia.werneck709@hotmail.com
+1004,Luiz Ferraz,38.0,1038.1038306715648,Viúvo  ,pi,2025-08-20,518.0,  b ,5,luiz.ferraz624@hotmail.com
+1464,Xavier Oliveira,29.0,3922.071980112165,Casado  ,sp,2022-03-24,,D,8,xavier.oliveira695@universidade.br 
+1294,Ulisses Gomes,49.0,5845.171495648759,Casado,df,2022-12-09,869.0,unknown,7,ulisses.gomes551universidade.br
+1080,Eduarda Zanetti,42.0,,Casado,pa,2025-04-15,742.0,B,3,eduarda.zanetti833@hotmail.com
+1525,Yasmin Nascimento,25.0,3813.449423776312,—  ,ms,2024-06-08,616.0,a,13,yasmin.nascimento437gmail.com
+1026,William Dias,39.0,1804.275865151817,Solteiro,sp,2023-04-01,367.0,B,,william.dias837@empresa.com.br
+1365,Sofia Dias,45.0,2734.6232936524393,solteiro,ap,2025-03-26,750.0,a ,0,sofia.dias81@gmail.com
+1216,João Silva,48.0,3945.373655665071,,pr,2024-08-08,626.0,C,6,joão.silva606@empresa.com.br
+1543,Nina Oliveira,24.0,2525.954304470551,Single,sc,2022-03-02,,a ,11,nina.oliveira150@gmail.com
+1442,Ulisses Itaúna,43.0,2469.497566644095,Divorc.  ,pr,2022-12-24,700.0,c,6,ulisses.itaúna709@gmail.com
+1328,Gabriela Pereira,28.0,4494.010267477051,Viúvo,pr,2023-06-28,999.0, B,3,gabriela.pereira235@hotmail.com
+1147,Marina Vasconcelos,16.0,1759.9605253894142,Divorciado,sp,2023-10-25,745.0, B,4,marina.vasconcelos7@yahoo.com
+1014,Diego Dias,37.0,6240.316576489794,CASADO ,br,2024-04-21,, A ,7,DIEGO.DIAS885GMAIL.COM
+1174,Isabel Zanetti,30.0,1748.85003577524,Viuvo  ,pb,2026-10-13,504.0,c,9,isabel.zanetti964@empresa.com.br
+1086,Carla Cardoso,41.0,1557.610317589154,Casado,br,2026-04-13,832.0,B,5,carla.cardoso757@yahoo.com
+1165,Yasmin Pereira,21.0,,,ce,2024-08-01,443.0,B,10,yasmin.pereira751@yahoo.com
+1577,Zuleica Oliveira,33.0,2978.6907862725593,—,br,2022-05-15,732.0, A,3,zuleica.oliveira694@gmail.com
+1059,Nina Werneck,15.0,"R$ R$ 5,00 reais",,se,2026-05-04,507.0,A,15,nina.werneck466@gmail.com
+1570,Paula Werneck,32.0,4268.179894814039,Viúvo,ac,2023-02-06,639.0, UNKNOWN,5,paula.werneck654@empresa.com.br
+1164,Xavier Esteves,37.0,-3673.5009307299897,Single,to,2023-08-28,604.0,D,4,xavier.esteves201@yahoo.com
+1519,Paula Oliveira,29.0,2974.9653670198813,  ,ma,2022-09-11,448.0,C,2,PAULA.OLIVEIRA96HOTMAIL.COM
+1292,Yasmin Teixeira,28.0,1151.0692737060597,Single,ac,2022-08-23,524.0,  b ,5,YASMIN.TEIXEIRA355EMPRESA.COM.BR
+1041,Ana Ximenes,40.0,,CASADO ,pb,2025-08-24,758.0,A,4,ana.ximenes800@gmail.com
+1394,Luiz Esteves,36.0,"R$ 1262,00 reais",Viuvo,ce,2024-10-05,545.0, UNKNOWN,1,luiz.esteves185@universidade.br
+1079,Ulisses Lima,36.0,1082.4315522387424,solteiro  ,mg,2022-09-08,754.0,unknown,1,ulisses.lima844@empresa.com.br
+1641,Xavier Vasconcelos,56.0,1611.1583522904343,, sp ,2025-05-11,, C,1,xavier.vasconcelos317@universidade.br
+1028,Bruno Dias,28.0,2011.7556756584017,CASADO , sp ,2024-06-12,,c,1,bruno.dias524@gmail.com
+1645,Paula Jesus,34.0,1992.0182931779104,Viúvo,pa,2023-02-05,, B,3,paula.jesus667@gmail.com
+1361,Karen Ramos,39.0,2412.3296913624927,CASADO ,sc,2024-04-24,,unknown,7,karen.ramos649@empresa.com.br
+1515,Ana Itaúna,44.0,2725.885881424556,Divorc.,rn,2024-03-19,528.0,B,1,ana.itaúna380@hotmail.com
+1372,Rafael Pereira,37.0,1427.101047549728,Divorciado  ,al,2024-02-11,499.0, C,4,rafael.pereira928universidade.br
+1313,Paula Pereira,46.0,1230.267041262754,Divorc.  ,ma,2025-04-08,570.0,unknown,2,paula.pereira786@hotmail.com
+1084,Sofia Ramos,38.0,"R$ 2510,00 reais",Divorc.,rj,2024-07-18,532.0,unknown,7,sofia.ramos620@empresa.com.br
+1062,Eduarda Pereira,48.0,2934.756347188296,solteiro,pi,2024-04-30,721.0,unknown,7,eduarda.pereira495@empresa.com.br
+1643,Paula Ximenes,38.0,1994.5481294379551,,mt,2022-02-14,792.0,c,9,paula.ximenes402@yahoo.com
+1136,Nina Silva,34.0,1256.4988663502136,,al,2025-05-07,986.0,a ,4,nina.silva272@universidade.br
+1111,Paula Teixeira,41.0,"R$ 1650,00 reais",,pr,2022-10-22,607.0,C,2,paula.teixeira440@gmail.com
+1194,Yasmin Barbosa,45.0,2299.6092167767165,Viuvo,pa,2024-05-20,876.0, A,2,yasmin.barbosa754@hotmail.com
+1457,Rafael Jesus,36.0,1157.4859445581517,CASADO ,ba,2023-01-21,,  b ,7,rafael.jesus90@gmail.com
+1043,Sofia Almeida,41.0,2847.863931666608,—,sp,2024-03-23,603.0, B,8,sofia.almeida204@gmail.com
+1451,Zuleica Werneck,41.0,3540.2612379548914,Viuvo,ce,2023-05-08,436.0,A,—,zuleica.werneck572@gmail.com
+1551,Rafael Queiroz,25.0,3717.1472903254553,solteiro,ce,2025-07-27,,a ,6,rafael.queiroz451@empresa.com.br
+1293,Marina Zanetti,26.0,3208.4160861757045,Divorc.  ,pe,2025-01-11,924.0,B,2,marina.zanetti290@gmail.com
+1129,Tiago Esteves,41.0,"R$ 1231,00 reais",  , sp ,2023-12-09,398.0,a ,14,tiago.esteves134@yahoo.com
+1594,Isabel Gomes,14.0,1718.5382633711597,Divorciado,pe,2022-01-18,595.0,unknown,2,isabel.gomes307@yahoo.com
+1218,Eduarda Werneck,41.0,"R$ 2963,00 reais",Solteiro,pb,2024-11-30,556.0,a ,1,eduarda.werneck718@yahoo.com
+1096,Ulisses Esteves,40.0,4067.6168189234745,Divorciado,pe,2026-08-17,506.0,B,2,ulisses.esteves617@hotmail.com
+1124,Sofia Cardoso,47.0,1403.4668913925252,CASADO   ,ba,2024-07-10,730.0,—,10,sofia.cardoso697@universidade.br
+1626,Rafael Vasconcelos,52.0,1848.4508386355203,—,rn,2024-04-22,538.0,unknown,9,rafael.vasconcelos898@gmail.com
+1226,Hugo Uchoa,35.0,2512.4937655006634,Single  ,al,2024-02-23,496.0, UNKNOWN,4,HUGO.UCHOA731YAHOO.COM
+1177,Yasmin Cardoso,27.0,"R$ 2694,00 reais",Single,pr,2025-03-17,,c,6,yasmin.cardoso174@empresa.com.br
+1414,Bruno Almeida,42.0,4638.239443739382,CASADO ,es,2023-08-01,,unknown,2,bruno.almeida32@hotmail.com
+1638,William Ximenes,40.0,"R$ 2102,00 reais",Divorc.  ,br,2023-04-23,, B,5,WILLIAM.XIMENES266GMAIL.COM
+1625,Vera Ferraz,37.0,-1464.3660974328384,Casado,sp,2024-03-25,785.0, B,4,vera.ferraz601@gmail.com
+1103,Xavier Vasconcelos,56.0,"R$ 1443,00 reais",Casado,br,2024-11-07,,C,8,xavier.vasconcelos19@yahoo.com
+1081,Eduarda Ramos,46.0,5919.428436081414,Divorciado,es,2022-02-22,705.0,B,4,eduarda.ramos16@yahoo.com
+1408,Ana Cardoso,35.0,2228.8388411509422,CASADO ,sp,2026-07-04,570.0,unknown,9,ana.cardoso175@yahoo.com
+1419,Carla Queiroz,19.0,,Casado  ,pr,2024-08-25,,B,4,carla.queiroz760@gmail.com
+1264,Felipe Zanetti,45.0,"R$ 1771,00 reais",Viúvo,pb,2022-09-26,388.0,B,4,felipe.zanetti752@gmail.com
+1368,Bruno Ramos,18 anos,"R$ 1367,00 reais",Casado,se,2024-10-24,604.0,a ,3,bruno.ramos793@hotmail.com
+1337,Felipe Uchoa,31.0,"R$ 2612,00 reais",CASADO , sp ,2025-07-16,384.0, C,8,felipe.uchoa586@empresa.com.br
+1227,Ana Klein,25.0,2558.5119890171127,Solteiro,pi,2022-04-30,300.0,  b ,8,ana.klein484@universidade.br
+1301,Rafael Oliveira,44.0,5130.558711509828,Casado  ,rj,2022-05-18,603.0, C,5,rafael.oliveira101@hotmail.com
+1378,Eduarda Nascimento,150.0,2662.2332009867205,Divorciado,mt,2026-05-10,507.0,A,2,eduarda.nascimento571@universidade.br
+1275,Tiago Barbosa,30.0,-1389.0825381578902,Divorciado  ,sp,2024-10-12,578.0,unknown,1,tiago.barbosa170@gmail.com
+1453,William Uchoa,48.0,-1684.8267767117866,,ba,2024-02-28,928.0,B,1,william.uchoa341universidade.br
+1263,Carla Barbosa,38.0,1569.7663010780423,solteiro,ceara,2024-12-01,785.0, C,9,carla.barbosa537@yahoo.com
+1587,Quésia Zanetti,14.0,4098.0850997177995,Divorc.  ,ba,2022-08-31,466.0,B,6,QUÉSIA.ZANETTI904HOTMAIL.COM
+1199,Otávio Uchoa,25.0,2368.8031207140552,CASADO   , sp ,2024-12-30,656.0,a ,2,otávio.uchoa224@empresa.com.br
+1253,Ulisses Itaúna,23.0,"R$ 3569,00 reais",Divorc.,rr,2024-07-29,,C,4,ulisses.itaúna224@empresa.com.br
+1171,William Silva,,1182.7085885089455,Solteiro  , sp ,2023-07-29,439.0,c,7,william.silva578@gmail.com
+1237,Paula Werneck,45.0,2230.4678658912085,,mt,2025-05-28,,a ,4,paula.werneck161@gmail.com
+1470,Ulisses Pereira,trinta,2750.0349181192046,,rj,2024-05-04,665.0,B,6,ulisses.pereira504hotmail.com
+1139,Rafael Lima,54.0,494.9165615179281,,pe,2025-06-03,288.0,a ,1,rafael.lima197@hotmail.com
+1303,Karen Honório,45.0,5291.47149961257,,br,2023-07-21,700.0,a,4,karen.honório369@hotmail.com
+1267,Diego Jesus,27.0,811.007073591184,Casado,ce,2023-02-11,676.0,premium,2,diego.jesus205@yahoo.com
+1322,Vera Zanetti,35.0,3020.004114100465,Viúvo,ap,2025-05-12,566.0, C,2,vera.zanetti529@hotmail.com
+1596,Zuleica Cardoso,30.0,3211.8807617415964,Viúvo,br,2024-05-05,187.0, B,3,zuleica.cardoso450@empresa.com.br 
+1561,Isabel Moraes,39.0,3042.97086614672,Casado,am,2023-02-19,,B,7,isabel.moraes771@universidade.br
+1212,Isabel Ximenes,58.0,3170.9744014640396,Solteiro  ,ro,2026-01-22,605.0,C,,isabel.ximenes537@gmail.com
+1198,Otávio Cardoso,45.0,5418.051446507929,Casado,se,2024-11-21,629.0,B,7,otávio.cardoso285@yahoo.com
+1355,Felipe Almeida,-3.0,3120.9452328177613,CASADO ,pr,2023-10-19,563.0,B,7,felipe.almeida65@universidade.br
+1472,Luiz Ferraz,16.0,2956.587751081101,CASADO ,to,2025-07-27,524.0,C,4,luiz.ferraz50@yahoo.com
+1015,Gabriela Ramos,20.0,4561.902226253385,Divorc.,ms,2023-07-25,735.0,a ,4,gabriela.ramos256@gmail.com
+1163,Ulisses Lima,47.0,2644.6885649713727,CASADO ,ce,2024-08-12,666.0,A,4,ulisses.lima823@empresa.com.br
+1521,Sofia Dias,29.0,,Divorciado, sp ,2022-06-16,428.0,D,1,SOFIA.DIAS851EMPRESA.COM.BR
+1482,Carla Klein,48.0,"R$ 1685,00 reais",Divorc.,rj,2024-07-24,516.0,c,2,carla.klein754@yahoo.com
+1491,Ulisses Klein,52.0,983.328056348999,Divorc.,rr,2024-01-02,782.0,a ,2,ulisses.klein360@gmail.com
+1342,Ulisses Ramos,25.0,"R$ 2737,00 reais",CASADO ,sp,2025-01-10,,B,6,ulisses.ramos825@gmail.com
+1037,Nina Nascimento,26.0,,Viuvo  , sp ,2022-05-08,606.0,B,4,nina.nascimento853@empresa.com.br
+1564,Tiago Jesus,54.0,3110.2581028674576,Divorciado  ,ac,2022-05-04,446.0,a ,1,tiago.jesus280@universidade.br
+1206,Tiago Ximenes,25.0,2061.810633979767,,al,2023-09-10,,D,7,tiago.ximenes531@universidade.br
+1295,Diego Gomes,45.0,"R$ 1960,00 reais",,br,2025-08-17,474.0,unknown,2,diego.gomes963@gmail.com
+1523,Felipe Honório,43.0,4056.996711426455,Divorc.,ce,2022-02-12,626.0, UNKNOWN,5,felipe.honório214@hotmail.com
+1073,Bruno Jesus,14.0,6260.525262524503,Solteiro,sc,2022-09-27,554.0,A,4,BRUNO.JESUS932YAHOO.COM
+1466,Quésia Barbosa,33.0,"-R$ 3.684,13",CASADO ,se,2022-10-30,615.0,B,6,QUÉSIA.BARBOSA875EMPRESA.COM.BR
+1104,Eduarda Cardoso,60.0,"R$ 2481,00 reais",Casado,ap,2023-11-21,619.0,unknown,3,eduarda.cardoso633@hotmail.com
+1429,William Ferraz,37.0,8014.559337767042,Viuvo,ba,2025-08-01,835.0, A ,1,william.ferraz945@yahoo.com
+1425,João Zanetti,30.0,2463.2265835224416,,rs,2024-12-21,743.0,B,2,joão.zanetti979@gmail.com
+1016,Yasmin Honório,55.0,"R$ 1788,00 reais",Viuvo,sp,2023-03-14,478.0,unknown,3,yasmin.honório411@gmail.com 
+1091,Otávio Vasconcelos,37.0,3935.6969382733673,—,xx,2024-04-28,557.0,—,0,OTÁVIO.VASCONCELOS221UNIVERSIDADE.BR
+1088,Rafael Lima,,5547.923177845723,solteiro,pb,2024-05-28,455.0, UNKNOWN,7,rafael.lima575@universidade.br
+1571,Vera Vasconcelos,47.0,3560.7189315890487,Divorciado  ,ba,2025-04-19,479.0,unknown,2,VERA.VASCONCELOS764GMAIL.COM
+1205,Gabriela Cardoso,27.0,2496.37794899895,Divorciado, sp ,2025-04-22,,B,4,gabriela.cardoso394@yahoo.com
+1102,Sofia Vasconcelos,55.0,10143.593897333632,CASADO ,rn,2026-06-21,752.0,B,3,sofia.vasconcelos610@gmail.com
+1238,Isabel Vasconcelos,38.0,1133.6371391147118,Viúvo, sp ,2022-04-12,353.0,a ,2,isabel.vasconcelos586@universidade.br
+1501,Xavier Esteves,19.0,4254.095422233646,—,es,2024-12-04,698.0,B,1,xavier.esteves849@universidade.br
+1246,Sofia Teixeira,35.0,1364.413894120579,Divorciado,pi,2024-04-05,682.0,B,13,sofia.teixeira634@universidade.br
+1157,Yasmin Yamamoto,33.0,"R$ 2822,00 reais",Single,rj,2023-04-25,626.0,a,3,yasmin.yamamoto939@universidade.br
+1326,Ana Pereira,31.0,1253.5819465106083,Casado  ,sp,2026-10-11,685.0,unknown,1,ANA.PEREIRA226HOTMAIL.COM
+1133,Rafael Jesus,53.0,1493.5565033376447,Single,xx,2025-01-31,374.0, C,3,rafael.jesus846@universidade.br
+1477,Carla Nascimento,30.0,2799.3594902434347,Casado,ba,2022-02-08,870.0,unknown,6,carla.nascimento496empresa.com.br
+1313,Paula Pereira,46.0,1230.267041262754,Divorc.  , sp ,2025-04-10,570.0, UNKNOWN,2,paula.pereira786@hotmail.com
+1359,Quésia Dias,41.0,1392.334033599452,Viúvo,sp,2023-01-24,762.0, B,3,quésia.dias539@hotmail.com
+1018,Quésia Queiroz,0.0,4364.186117077267,Single  ,ce,2023-01-16,494.0,  b ,—,quésia.queiroz610@gmail.com
+1121,João Werneck,49.0,"R$ 2563,00 reais",Viuvo,mg,2022-09-09,526.0,B,6,joão.werneck874@gmail.com
+1149,João Lima,30.0,1899.059760157589,Viúvo  ,go,2024-09-06,,B,5,joão.lima466@universidade.br
+1417,Otávio Moraes,35.0,2564.4713104952693,Divorciado,br,2025-05-23,, A,2,otávio.moraes592@empresa.com.br
+1274,Hugo Vasconcelos,34.0,3309.8382568821844,Single,df,2024-06-05,608.0,D,1,hugo.vasconcelos745@hotmail.com
+1299,Ulisses Lima,36.0,"R$ 3632,00 reais",Solteiro,ma,2022-09-10,776.0, A,5,ulisses.lima6@universidade.br
+1588,Bruno Yamamoto,30.0,1476.8142919807228,Viúvo  ,rj,2022-11-01,508.0,C,3,bruno.yamamoto254@gmail.com
+1311,Paula Vasconcelos,60.0,"R$ 4511,00 reais",Viúvo,mt,2025-08-18,688.0,a,7,paula.vasconcelos421@gmail.com
+1484,William Silva,24.0,1934.763118355253,,mt,2022-05-13,704.0,C,8,william.silva999@hotmail.com
+1548,Bruno Lima,,"R$ 4193,00 reais",Single,rr,2022-09-11,463.0,A,11,bruno.lima775@gmail.com
+1268,Gabriela Werneck,14.0,4031.0986425186657,CASADO   ,pr,2022-01-06,604.0,A,5,gabriela.werneck688@gmail.com
+1034,Felipe Zanetti,49.0,"R$ 3.126,49",Single,ceara,2022-04-13,723.0,unknown,14,felipe.zanetti256@gmail.com
+1181,Ana Ximenes,52.0,2998.5407438994916,,pa,2024-06-16,798.0,unknown,1,ANA.XIMENES299GMAIL.COM
+1184,Karen Zanetti,54.0,3601.9330279806327,Solteiro,df,2023-06-14,574.0,B,5,karen.zanetti523@universidade.br
+1406,Otávio Teixeira,30.0,2819.4095134083577,CASADO   ,mg,2024-12-28,237.0,A,3,otávio.teixeira998@empresa.com.br
+1207,Paula Moraes,32.0,1868.7219129671337,Viuvo  ,ba,2024-12-17,641.0,A,2,paula.moraes370@yahoo.com
+1424,Yasmin Dias,31.0,2674.219719729588,Viuvo  ,se,2024-09-02,476.0,unknown,9,yasmin.dias488@universidade.br
+1094,Ulisses Nascimento,44.0,1496.2250115689203,Divorc., sp ,2023-10-28,516.0, B,1,ulisses.nascimento821@universidade.br
+1568,Vera Oliveira,34.0,904.3016914111447,CASADO ,sp,2025-05-16,680.0,C,5,vera.oliveira397@hotmail.com
+1503,Luiz Werneck,27.0,6749.563229762654,CASADO ,br,2024-08-30,606.0,B,3,luiz.werneck253@yahoo.com
+1353,William Moraes,47.0,2632.864636293312,Divorciado  ,pe,2022-03-22,890.0,a ,2,william.moraes724@empresa.com.br
+1380,Tiago Honório,26.0,3318.1227147405043,Solteiro,rr,2022-06-12,574.0,B,10,tiago.honório799@empresa.com.br
+1410,Sofia Nascimento,37.0,1933.1168513295404,Divorc.  ,ro,2025-01-20,,B,8,sofia.nascimento242@hotmail.com
+1122,Karen Vasconcelos,47.0,"R$ 1460,00 reais",Casado  ,rj,2023-09-07,610.0, UNKNOWN,3,karen.vasconcelos162@hotmail.com
+1369,Xavier Queiroz,14.0,,Casado  ,pi,2024-05-30,,C,4,xavier.queiroz702@universidade.br
+1534,Tiago Vasconcelos,41.0,7010.555988571567,Viuvo,pb,2022-05-05,655.0, C,6,tiago.vasconcelos20@empresa.com.br
+1538,Isabel Lima,30.0,2770.4643357500545,Divorciado  ,ap,2022-05-11,, C,3,ISABEL.LIMA441GMAIL.COM
+1478,Isabel Barbosa,43.0,5658.754849650928,,ac,2022-07-17,697.0,unknown,1,isabel.barbosa127@universidade.br
+1364,Sofia Honório,51.0,3006.4589171052576,solteiro,ce,2025-03-14,774.0,a ,,sofia.honório583@hotmail.com
+1078,Eduarda Nascimento,48.0,2724.4046425881947,Viuvo,to,2023-07-27,928.0,A,2,eduarda.nascimento707@yahoo.com
+1350,Bruno Vasconcelos,56.0,2294.3069152269095,Casado,pr,2025-07-20,,D,4,bruno.vasconcelos333@gmail.com
+1061,Diego Almeida,48.0,"R$ 1846,00 reais",—,pr,2022-11-21,506.0,C,3,diego.almeida565@gmail.com
+1251,Isabel Ximenes,47.0,1585.9765883762057,Casado,rj,2026-07-15,734.0,a ,3,isabel.ximenes51@hotmail.com
+1125,Nina Queiroz,18.0,,Solteiro,es,2024-11-27,441.0,B,3,nina.queiroz312@hotmail.com
+1592,Luiz Zanetti,42.0,"R$ 2029,00 reais",solteiro,sp,2022-02-20,,B,2,luiz.zanetti453@hotmail.com
+1617,Xavier Klein,48.0,5171.271384781246,Viúvo,am,2023-05-24,,unknown,7,xavier.klein704@hotmail.com
+1648,Ulisses Moraes,15.0,5382.893828642564,,xx,2024-01-23,, A,3,ulisses.moraes123@gmail.com
+1347,Nina Jesus,14.0,683.2679258363876  ,Viuvo, sp ,2024-08-07,508.0,B,10,nina.jesus811@gmail.com
+1545,Karen Lima,44.0,-5796.618774165786,solteiro  ,ma,2024-04-07,717.0,a ,5,karen.lima660@hotmail.com
+1603,João Uchoa,46.0,2613.176055930949,Viuvo,rr,2023-09-02,504.0,a ,4,joão.uchoa628@hotmail.com
+1416,Xavier Pereira,15.0,2773.8075564004926,Divorciado,ce,2022-10-09,600.0,B,2,xavier.pereira826@empresa.com.br
+1465,Gabriela Silva,29.0,1705.091905459433,solteiro  ,mg,2022-02-16,371.0, A,4,gabriela.silva552@empresa.com.br
+1614,Yasmin Werneck,31.0,1294.740301115669,Divorciado  ,rs,2026-07-04,783.0, A,3,yasmin.werneck344@gmail.com
+1067,Marina Klein,60.0,"R$ 4624,00 reais",Viuvo  ,ap,2025-06-18,331.0,A,3,MARINA.KLEIN241YAHOO.COM
+1024,Nina Esteves,47.0,1414.2682339012144,CASADO ,ap,2024-01-03,810.0, B,1,nina.esteves699@hotmail.com
+1077,Bruno Jesus,65.0,3114.226267212578,Casado  ,df,2023-04-26,535.0,c,14,bruno.jesus139@empresa.com.br
+1105,Xavier Oliveira,35.0,1651.7893907709154,CASADO ,pr,2024-06-28,526.0,c,3,xavier.oliveira292@empresa.com.br
+1614,Yasmin Werneck,31.0,1294.740301115669,Divorciado  ,rs,2024-09-15,783.0, A,3,yasmin.werneck344@gmail.com
+1446,Karen Honório,36.0,910.584511196178,CASADO ,pb,2022-07-20,573.0,B,12,karen.honório756@empresa.com.br
+1126,Gabriela Uchoa,16.0,5988.681720830969,solteiro, sp ,2025-07-04,698.0,C,4,GABRIELA.UCHOA630UNIVERSIDADE.BR
+1593,Carla Zanetti,41.0,3056.8191911446424,Viúvo,df,2022-08-31,803.0,A,7,carla.zanetti369@gmail.com
+1334,Rafael Ximenes,34.0,-1965.920686809962  ,Viuvo,rn,2026-12-12,676.0, C,5,rafael.ximenes880universidade.br
+1480,Yasmin Ramos,45.0,-2186.5539151954076,,df,2023-03-15,680.0,c,8,yasmin.ramos872@empresa.com.br
+1178,João Pereira,41.0,2982.96805068238,CASADO   ,pe,2023-05-21,698.0,B,15,joão.pereira641@empresa.com.br
+1509,Isabel Ferraz,58.0,2037.579805455837,CASADO   ,rj,2023-02-11,842.0,A,8,isabel.ferraz425@yahoo.com
+1612,Karen Ferraz,26.0,-6963.36364386201,,rs,2022-01-25,739.0,a ,3,karen.ferraz218@empresa.com.br
+1135,Tiago Klein,50.0,806.7847110769417,—,rn,2025-04-30,447.0,C,6,tiago.klein520@universidade.br
+1223,Vera Uchoa,52.0,"R$ 6005,00 reais",Casado  ,pe,2022-06-03,727.0,A,3,vera.uchoa67@hotmail.com
+1507,Isabel Queiroz,47.0,1361.1083526042255,Divorc.,rs,2024-07-17,,B,6,isabel.queiroz29@gmail.com
+1341,Karen Pereira,31.0,1375.9868371053672,Single,pi,2025-01-28,663.0,a ,15,karen.pereira139@universidade.br
+1229,William Lima,42.0,4745.298844758164,—,ma,2025-02-27,, B,6,
+1553,Sofia Jesus,26.0,5772.38712892858,Divorciado,es,2024-01-31,530.0,C,4,sofia.jesus384@yahoo.com 
+1093,Eduarda Moraes,43.0,2350.5216039488614,Viúvo,rr,2022-05-28,743.0,a ,2,eduarda.moraes883@gmail.com
+1363,Karen Almeida,48.0,"R$ 2292,00 reais",,pi,2025-02-07,574.0,c,4,karen.almeida570@universidade.br
+1412,Carla Gomes,49.0,"R$ 3320,00 reais",—,ac,2022-10-28,,B,6,carla.gomes153@empresa.com.br
+1069,Tiago Moraes,29.0,2427.7247291429408,Viúvo,ce,2025-04-09,,B,13,tiago.moraes238@empresa.com.br
+1036,Ulisses Honório,38.0,5837.86511386965,Casado,rj,2026-06-12,, C,21,ulisses.honório344@yahoo.com
+1296,Zuleica Itaúna,,3455.303388296411,—,pb,2023-06-14,,a ,3,zuleica.itaúna398@empresa.com.br
+1160,Rafael Nascimento,37.0,3541.8457145049265,Single,go,2024-03-06,626.0,B,1,rafael.nascimento262@hotmail.com
+1362,Xavier Itaúna,18.0,4582.804187058239,Viuvo, sp ,2024-03-24,470.0,unknown,6,xavier.itaúna744@gmail.com
+1011,Eduarda Vasconcelos, 22 ,1678.932683408467,Single,mt,2023-06-27,373.0,c,9,eduarda.vasconcelos894@universidade.br
+1144,Xavier Barbosa,33.0,4893.1809989867,Divorciado,to,2022-12-27,437.0, A,6,xavier.barbosa857@empresa.com.br
+1405,Rafael Oliveira,42.0,842.337292608996,Solteiro,sp,2022-04-14,789.0,A,2,rafael.oliveira393@gmail.com
+1200,Paula Zanetti,37.0,1034.3566712067638,,am,2022-04-05,619.0,A,2,paula.zanetti642empresa.com.br
+1427,Rafael Almeida,46.0,1820.892057839406,Casado,ac,2024-04-22,754.0,—,2,rafael.almeida538@gmail.com
+1127,Karen Silva,40.0,11922.026684556735,Solteiro, sp ,2022-04-04,569.0,unknown,4,karen.silva790@universidade.br
+1557,William Jesus,52.0,1705.2360374786738,Casado  ,ce,2023-01-30,,c,7,NAN
+1440,Isabel Esteves,66.0,3907.92793548801,Divorciado,sc,2026-11-29,597.0,B,3,isabel.esteves450@hotmail.com 
+1302,Tiago Cardoso,58.0,780.9367551589175,CASADO ,ce,2024-07-11,611.0,C,13,tiago.cardoso632@yahoo.com
+1009,Felipe Queiroz,21.0,1438.915869143449,,rn,2025-08-01,,c,5,
+1572,Vera Almeida,41.0,3992.6338607011294,,pe,2025-02-21,,a ,6,vera.almeida3@empresa.com.br
+1616,Bruno Honório,21.0,,—,xx,2026-06-23,736.0,B,5,bruno.honório285@yahoo.com
+1176,Eduarda Cardoso,31.0,3567.9949939332646,Viuvo  ,to,2026-07-01,,A,1,eduarda.cardoso92@yahoo.com
+1231,Yasmin Dias,36.0,4113.545708660806,CASADO ,ba,2024-02-05,674.0,premium,5,yasmin.dias965@empresa.com.br
+1210,Ulisses Vasconcelos,62.0,1614.0265671692653,solteiro,br,2023-05-04,,A,5,ulisses.vasconcelos251@gmail.com
+1128,Rafael Jesus,39.0,3772.3746935788454,solteiro,sp,2023-05-17,672.0,unknown,5,RAFAEL.JESUS827EMPRESA.COM.BR
+1143,Nina Uchoa,33.0,2127.0054320833374,Viuvo  ,sp,2025-08-25,722.0,B,2,nina.uchoa775@yahoo.com
+1241,Vera Dias,51.0,1060.2463014167183,CASADO ,to,2025-04-22,353.0, B,8,vera.dias567@gmail.com
+1007,Quésia Pereira,71.0,4994.9557619121415,Solteiro,es,2022-11-10,632.0, B,8,quésia.pereira164@empresa.com.br
+1638,William Ximenes,40.0,2102.500919440749,Divorc.  ,br,2023-04-23,780.0,  b ,5,WILLIAM.XIMENES266GMAIL.COM
+1298,Marina Vasconcelos,31.0,"R$ 4034,00 reais",Divorciado  ,pb,2022-10-07,477.0,B,9,marina.vasconcelos401@universidade.br
+1310,Eduarda Oliveira,68.0,2632.974339427764,Casado, sp ,2023-03-10,496.0,B,14,eduarda.oliveira192@hotmail.com
+1435,Diego Uchoa,49.0,6382.7347925496415,Viuvo,ce,2025-07-19,, A ,3,diego.uchoa753@hotmail.com
+1254,Luiz Ramos,36.0,5088.562547939931,—,rj,2023-09-04,,B,1,luiz.ramos111empresa.com.br
+1428,Bruno Teixeira,48.0,2247.507103492509,Viúvo,es,2022-09-03,658.0,A,4,bruno.teixeira877@universidade.br
+1473,Felipe Ramos,46.0,,CASADO ,rn,2023-07-10,490.0,B,2,felipe.ramos715@yahoo.com
+1569,Ana Honório,47.0,1845.520551711407,solteiro,rr,2023-01-28,577.0,unknown,4,ana.honório836@universidade.br
+1606,Ana Cardoso,,1856.9233502541745,,ceara,2024-02-20,466.0,C,8,ana.cardoso764@empresa.com.br
+1540,Diego Zanetti,30.0,649.7972334860012,Casado,ap,2024-11-04,734.0,premium,10,diego.zanetti172@gmail.com
+1008,Ana Vasconcelos,36.0,2037.2126054910113,,pi,2025-08-05,378.0,C,2,ANA.VASCONCELOS115YAHOO.COM
+1156,Yasmin Almeida,31.0,,Casado,df,2025-05-01,984.0,A,4,YASMIN.ALMEIDA458UNIVERSIDADE.BR
+1027,Isabel Cardoso,44.0,1409.7750635420355,solteiro,rr,2025-08-06,, C,4,isabel.cardoso410@universidade.br 
+1506,Ulisses Nascimento,32.0,930.8086640464758,solteiro,ce,2024-10-03,862.0,a ,10,ulisses.nascimento755@empresa.com.br
+1436,Rafael Uchoa,27.0,4794.673391697556,Single  ,xx,2022-02-03,421.0, A,12,rafael.uchoa348@gmail.com
+1266,Gabriela Werneck,34.0,3301.8613296347276,Solteiro  , sp ,2026-10-11,687.0,a,2,gabriela.werneck104@universidade.br
+1314,Carla Honório,15.0,3255.287082206594,Divorciado,df,2022-02-03,395.0,B,5,CARLA.HONÓRIO536UNIVERSIDADE.BR
+1461,William Ramos,37.0,"R$ 1822,00 reais",Divorciado,ma,2022-11-27,480.0, B,5,william.ramos120@gmail.com
+1064,Luiz Klein,44.0,2161.7738889808247,Single  ,sp,2026-03-14,567.0,C,9,luiz.klein891@hotmail.com
+1338,Isabel Teixeira,29.0,,solteiro  ,xx,2024-01-14,,unknown,7,isabel.teixeira602@universidade.br
+1255,Ulisses Jesus,41.0,,Single  ,pr,2022-04-27,,unknown,2,ulisses.jesus878@universidade.br
+1531,Ana Gomes,33.0,"R$ 1519,00 reais",Solteiro,mg,2022-02-24,665.0,B,2,ana.gomes493@hotmail.com
+1559,Ana Klein,49.0,"R$ 2976,00 reais",Divorc.,al,2024-12-17,845.0,C,3,ana.klein392@yahoo.com
+1208,Yasmin Cardoso,38.0,-1655.466189057848  ,Casado  ,ac,2023-06-21,704.0,B,6,yasmin.cardoso41@gmail.com
+1287,Quésia Zanetti,52.0,5329.670917194613,  ,rj,2022-04-07,, A ,4,quésia.zanetti397@empresa.com.br
+1001,Quésia Teixeira,41.0,"R$ 4475,00 reais",Viúvo  ,to,2023-03-28,512.0,a ,3,quésia.teixeira604@yahoo.com 
+1341,Karen Pereira,31.0,1375.9868371053672,Single,pi,2025-01-28,663.0,a ,15,karen.pereira139@universidade.br
